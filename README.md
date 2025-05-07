@@ -1,5 +1,7 @@
 # NumPy
 
+Theory and some useful applications.
+
 Numpy - библиотека в Python, предоставляющая мощные инструменты для обработки больших данных. 
 
 Она позволяет:
